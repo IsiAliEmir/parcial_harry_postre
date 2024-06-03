@@ -1,7 +1,6 @@
-# ejercicio-alumno
+# Harry Postre y el Pastel Currificado
 
-## Integrantes
+## Parcial Paradigma Funcional - Año 2022
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
+- Alí Isi (IsiAliEmir)
 ...
